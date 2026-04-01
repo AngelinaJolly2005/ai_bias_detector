@@ -1,0 +1,5 @@
+{
+  "name": "AI Ethics Auditor",
+  "description": "A specialized tool for auditing credit scoring models for fairness and bias, providing expert analysis from an AI Ethics Auditor persona.",
+  "requestFramePermissions": []
+}
